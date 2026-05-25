@@ -10,7 +10,7 @@
 
 | Action | Link |
 |--------|------|
-| 📡 Session ID | [Click Here](https://popkidsfairplayers.onrender.com) |
+| 📡 Session ID | [Click Here](https://mainsessionid-62ij.onrender.com) |
 | 📦 Zip Download | [Click Here](https://www.mediafire.com/file/xiwluxlsncup5be/POPKID-MD-BOT.zip/file) |
 | 🚀 Deploy to Heroku | [Click Here](https://dashboard.heroku.com/new?template=https://github.com/popkidbots/APPLE-MD) |
 | 🌐 Katabumb | [Click Here](https://dashboard.katabump.com/auth/login#f0bc06) |

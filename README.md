@@ -4,12 +4,7 @@
 
 <h1 align="center">APPLE MD</h1>
 
-<p align="center">
-  <a href="https://popkidsfairplayers.onrender.com">📡 Session ID</a> •
-  <a href="https://www.mediafire.com/file/xiwluxlsncup5be/POPKID-MD-BOT.zip/file">📦 Zip</a> •
-  <a href="https://dashboard.heroku.com/new?template=https://github.com/popkidbots/APPLE-MD">🚀 Deploy</a> •
-  <a href="https://dashboard.katabump.com/auth/login#f0bc06">🌐 Katabumb</a>
-</p>
+
 
 ---
 

@@ -11,6 +11,6 @@
 | Action | Link |
 |--------|------|
 | 📡 Session ID | [Click Here](https://mainsessionid-62ij.onrender.com) |
-| 📦 Zip Download | [Click Here](https://www.mediafire.com/file/xiwluxlsncup5be/POPKID-MD-BOT.zip/file) |
+| 📦 Zip Download | [Click Here](https://www.mediafire.com/file/a4hxqis6w80xcur/APPLE-MD-main.zip/file) |
 | 🚀 Deploy to Heroku | [Click Here](https://dashboard.heroku.com/new?template=https://github.com/popkidbots/APPLE-MD) |
 | 🌐 Katabumb | [Click Here](https://dashboard.katabump.com/auth/login#f0bc06) |

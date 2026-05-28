@@ -8,7 +8,7 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "@whiskeysockets/baileys": "^v7.0.0-rc.9",
+    "@whiskeysockets/baileys": "npm:gifted-baileys@2.0.6",
     "pino": "^9.0.0",
     "megajs": "^1.1.0",
     "adm-zip": "^0.5.16",
